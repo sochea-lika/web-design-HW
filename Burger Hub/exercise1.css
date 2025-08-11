@@ -1,0 +1,29 @@
+body{
+    background: black;
+    color:white;
+}
+h1{
+    color:red;
+    margin-left: 300px;
+}
+h1:hover {
+    color:pink;
+    transition-duration: 300ms;
+    cursor: pointer;
+}
+h2{
+    color:red;
+}
+h3{
+    color:red;
+}
+h4{
+    color:red;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+img {
+    margin-left: 350px;
+}
